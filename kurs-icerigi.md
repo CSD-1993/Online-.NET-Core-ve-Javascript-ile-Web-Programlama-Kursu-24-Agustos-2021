@@ -10,7 +10,7 @@
 
 ## .NET Core ve ASP.NET Core
 + Temel kavramlar
-+ + .NET Core ile platfornm bağımsızlık
++ .NET Core ile platfornm bağımsızlık
 + ASP.NET Core' a giriş
 + Web server'lar
 + Örnek Uygulamalar
