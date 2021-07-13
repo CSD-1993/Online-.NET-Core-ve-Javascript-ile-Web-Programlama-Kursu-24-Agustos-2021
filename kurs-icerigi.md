@@ -34,9 +34,7 @@
 + ASP.NET MVC
 + Razor sentaksı
 
-
 ## Blazor Web Framework
-
 
 ## Veritabanı işlemleri
 + ADO.NET kullanımı
@@ -96,7 +94,7 @@ Bu bölümde daha önce herhangi bir programlama dilinde çalışanlara yönelik
 + Dosya değişiklerinin izlenmesi
 + Örnek uygulamalar
 
-## Node.js Streaams
+## Node.js Streams
 + Stream kullanımı
 + Piped stream
 + Paused Stream
@@ -153,7 +151,7 @@ Bu bölümde daha önce herhangi bir programlama dilinde çalışanlara yönelik
 ## Node.js Microservice uyglamaları
 + Örnek uygulamalar
 
-## Node.js Uygulamalarının Debug Edilemesi
+## Node.js Uygulamalarının Debug Edilmesi
 
 
 
