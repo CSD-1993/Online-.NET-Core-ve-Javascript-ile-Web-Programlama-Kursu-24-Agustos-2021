@@ -1,4 +1,4 @@
-# Online .NET ve Javascript ile Web Programlama
+# Online .NET Core ve Javascript ile Web Programlama
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
 + Kurs __24 Agustos 2021 Salı__ günü başlayacaktır.
