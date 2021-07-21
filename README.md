@@ -9,7 +9,7 @@
 + Toplam kurs süresi __160__ saattir. Dersler __Salı - Perşembe__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/kurs-tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/kurs-icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/sss.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-.NET-Core-ve-Javascript-ile-Web-Programlama-Kursu-24-Agustos-2021/blob/main/kurs-tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-.NET-Core-ve-Javascript-ile-Web-Programlama-Kursu-24-Agustos-2021/blob/main/kurs-icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-.NET-Core-ve-Javascript-ile-Web-Programlama-Kursu-24-Agustos-2021/blob/main/sss.md)
 + [Kursa buradan kayıt olabilirsiniz](https://us02web.zoom.us/meeting/register/tZUtc-6tqzksHdZSMM_rMqxoc4m7M63RJJBy)
