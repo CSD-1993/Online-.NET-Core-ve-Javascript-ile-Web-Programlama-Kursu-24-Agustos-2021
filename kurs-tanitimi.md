@@ -63,7 +63,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 [Integral Yatırım](https://www.integralyatirim.com.tr/) yer almaktadır.
 
 ## Format
-+ *Online .NET ve Javascript ile Web Programlama* online olarak gerçek zamanlı verilmektedir. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ *Online .NET Core ve Javascript ile Web Programlama* online olarak gerçek zamanlı verilmektedir. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
