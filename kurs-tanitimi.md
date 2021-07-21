@@ -24,7 +24,7 @@
 + MEAN ve MERN stack geliştirme de kursun kapsamı dahilindedir
 
 ## Ön Koşul
-Bu programa katılabilmek için daha C# vate Java ile uygulama geliştirmiş olmak ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C#  ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir
+Bu programa katılabilmek için daha C# veya Java ile uygulama geliştirmiş olmak ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C#  ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir
 
 ## Eğitim Süresi
 Programın toplam süresi __160__ saattir. 
