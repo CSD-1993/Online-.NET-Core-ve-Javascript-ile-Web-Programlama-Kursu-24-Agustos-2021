@@ -1,4 +1,4 @@
-# Online .NET ve Javascript ile Web Programlama
+# Online .NET Core ve Javascript ile Web Programlama
 
 + Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir. 
 
@@ -71,12 +71,12 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 
 + Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
 
-+ Eğitim dili Türkçe’dir. Programlama, Java ve kullanılan teknolojilerle ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
++ Eğitim dili Türkçe’dir. Programlama, .NET Core ve Javascript kullanılan teknolojilerle ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 2 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-_Java ile Uygulama Geliştirme_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
+_.NET Core ve Javascript ile Web Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
 Programın toplam ücreti **KDV DAHİL 3900 TL**‘dir. Öğrenci olanlara **KDV DAHİL 3600 TL** (öğrencilik durumunu belgelemeleri kaydıyla)_  Katılımcılar, eğitim programı ücretini dilerlerse __2 taksitte__ ödeyebilirler. Peşin ödemede __%10__ indirim uygulanmaktadır
