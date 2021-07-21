@@ -1,6 +1,6 @@
 # Online .NET ve Javascript ile Web Programlama
 
-Aşağıda __Oğuz Karan__ tarafından verilen _Online Java ile Uygulama Geliştirme 2 xKursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
+Aşağıda __Oğuz Karan__ tarafından verilen _Online Online .NET ve Javascript ile Web Programlama_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. 
@@ -34,16 +34,14 @@ Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Dersl
 
 + Anlamadığınız noktaları eğitmene sormalısınız.
 
-+ __Java ile Uygulama Geliştirme Kursu 2__ çok kolay değil. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
++ __Online .NET ve Javascript ile Web Programlama__ çok kolay değil. Eğitimde şüphesiz zorlandığınız yerler olacak. Bu sizin moralinizi bozmamalı, motivasyonunuzu düşürmemeli. Eğer yeterli zaman ayırıp, çaba gösterirseniz zaman içinde her şey yerine oturacak. Biraz sabırlı olmalısınız.
 
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
 
-## Daha önce Java ile uygulama geliştirdim. Ancak seviyemi tam olarak bilmiyorum. Ne yapabilirim?
-Eğer daha önce Java ile uygulama geliştirdiyseniz ancak seviyeniz konusunda bir fikriniz yoksa eğitmen ile konuşmanız faydalı olacaktır
 
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.
 
-### Daha önce C ve Sistem Programcıları Derneğinde 'Java ile Uygulama Geliştirme 2' kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
+### Daha önce C ve Sistem Programcıları Derneğinde 'Online .NET ve Javascript ile Web Programlama' kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
 Hayır. Ancak C ve Sistem Programcıları Derneğinde düzenlenmekte olan örgün kurslara tekrar amaçlı katılabilirsiniz.
