@@ -1,4 +1,4 @@
-# Online .NET ve Javascript ile Web Programlama
+# Online .NET Core ve Javascript ile Web Programlama
 
 ## C# programlama diline ilişkin ileri konular
 + Delege kavramı
