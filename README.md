@@ -1,7 +1,7 @@
 # Online .NET ve Javascript ile Web Programlama
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
-+ Kurs __17 Agustos 2021 Salı__ günü başlayacaktır.
++ Kurs __24 Agustos 2021 Salı__ günü başlayacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Kursta irili ufaklı birçok profesyonel kodlar yazılacak ve profesyonel uygulamalar yapılacaktır
 + Kurs eğitmeni __Oğuz Karan__'dır.
