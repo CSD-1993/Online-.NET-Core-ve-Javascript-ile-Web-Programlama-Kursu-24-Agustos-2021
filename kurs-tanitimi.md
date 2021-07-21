@@ -3,24 +3,28 @@
 + Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir. 
 
  
-+ Bu kurs daha Java ve Spring boot kullanarak uygulama geliştiren katılımcıların daha ileri düzey uygulama geliştirme becerilerini artırmaya yöndeliktir
++ Bu kurs katılımcıların .NET Core ve Javascript teknolojilerini kullanarak profesyonel düzeyde uygulama geliştirme becerisi edinmelerini hedeflemektedir.
 
-+ Java ile uygulama geliştirmede çok yaygın olarak kullanılan "Spring (boot)" ileri seviyede anlatılacaktır 
++ .NET Ortamı için ASP.NET Core ve Javascript için Node.js ortamı "backend" geliştirme için kullanılacaktır.
 
 + Kurs içerisinde irili ufaklı bir çok uygulama geliştirilecektir
 
-+ Büyük projeler geliştirilirken kullanılan yaklaşımlar, mimariler ve araçlar uygulamalı olarak ele alınacaktır.
++ Büyük projeler geliştirilirken kullanılan yaklaşımlar ve mimariler uygulamalı olarak ele alınacaktır.
 
 + Katılımcılara özelllikle büyük bir projede geliştirici olabilecekleri şekilde uygulamalar yapılacaktır.
 
 + Katılımcılara bir projenin kodlama aşamasında nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de anlatılacak, bunlara yönelik uygulamalar yapılacaktır.
 
-+ Katılımcılara Java ile uygulama geliştirme yapılırken gereken yardımcı bazı araçlar da anlatılacaktır
++ Kursta genel ilişkisel veritabanı yönetim sistemleri olarak MS SQL Server ve PostgreSQL veritabanı yönetim sistemleri kullanılacak, veritabanı tasarımı ve veritabanı programlama konusunda da belirli ölçüde katılımcılara fayda sağlayacaktır
+
++ Entity Framework Core detaylı olarak ele alınacaktır
 
 + Kursta MongoDB, Elastic search ve Redis gibi araçlar kullanarak uygulama geliştirme üzerinde de detaylı olarak durulacaktır
 
++ MEAN ve MERN stack geliştirme de kursun kapsamı dahilindedir
+
 ## Ön Koşul
-Bu programa katılabilmek için daha Java ile uygulama geliştirmiş olmak ya da derneğimizde düzenlenmekte olan _Java ile Uygulama Geliştirme I kursuna katılmış olmak gerekmektedir
+Bu programa katılabilmek için daha C# vate Java ile uygulama geliştirmiş olmak ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C#  ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir
 
 ## Eğitim Süresi
 Programın toplam süresi __160__ saattir. 
