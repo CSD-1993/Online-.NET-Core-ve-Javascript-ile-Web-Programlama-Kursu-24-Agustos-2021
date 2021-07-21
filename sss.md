@@ -1,4 +1,4 @@
-# Online .NET ve Javascript ile Web Programlama
+# Online .NET Core ve Javascript ile Web Programlama
 
 Aşağıda __Oğuz Karan__ tarafından verilen _Online Online .NET ve Javascript ile Web Programlama_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
