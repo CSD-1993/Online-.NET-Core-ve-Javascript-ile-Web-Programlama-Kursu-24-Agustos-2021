@@ -12,4 +12,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-.NET-Core-ve-Javascript-ile-Web-Programlama-Kursu-24-Agustos-2021/blob/main/kurs-tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-.NET-Core-ve-Javascript-ile-Web-Programlama-Kursu-24-Agustos-2021/blob/main/kurs-icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-.NET-Core-ve-Javascript-ile-Web-Programlama-Kursu-24-Agustos-2021/blob/main/sss.md)
-+ [Kursa buradan kayıt olabilirsiniz](https://us02web.zoom.us/meeting/register/tZUtc-6tqzksHdZSMM_rMqxoc4m7M63RJJBy)
++ [Kursa buradan kayıt olabilirsiniz](https://us02web.zoom.us/meeting/register/tZclcuGvrzosHNJilwpJ2v_8yWJqYW-1Rufn)
