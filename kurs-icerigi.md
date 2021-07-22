@@ -117,7 +117,7 @@ Bu bölümde daha önce herhangi bir programlama dilinde çalışanlara yönelik
 ## Temel React.js
 + Örnek uygulamalar
 
-## Temelm Vue.js
+## Temel Vue.js
 + Örnek uygulamalar
 
 ## Temel Angular
